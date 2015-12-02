@@ -1,0 +1,1 @@
+SELECT DISTINCT pmkName FROM tblPokemon ORDER BY pmkIdNo;
